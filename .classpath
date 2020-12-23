@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
 	<classpathentry kind="src" path="Projeto_biblioteca_TCC-master/src"/>
+=======
+	<classpathentry kind="src" path="src"/>
+>>>>>>> 27154b48c652999bb8474d344c8bbfe0ab72be8a
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/Users/Reinan Martins/Downloads/mysql-connector-java-5.1.23.jar">
+=======
+	<classpathentry kind="lib" path="C:/Users/Juca Santos/Documents/mysql-connector-java-5.1.23.jar">
+>>>>>>> 27154b48c652999bb8474d344c8bbfe0ab72be8a
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="output" path="Projeto_biblioteca_TCC-master/build/classes"/>
+=======
+	<classpathentry kind="output" path="build/classes"/>
+>>>>>>> 27154b48c652999bb8474d344c8bbfe0ab72be8a
 </classpath>
